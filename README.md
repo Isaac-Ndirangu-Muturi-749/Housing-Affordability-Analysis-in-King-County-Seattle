@@ -91,7 +91,6 @@ The coefficient for 'season_Spring' is also positive, indicating that homes tend
 We can also see that some variables have a stronger effect than others. For example, the coefficient for the waterfront view variable is much larger than the coefficients for the other variables, indicating that having a waterfront view is a very significant factor in determining the price of a house.
 
 Overall, this model provides a more comprehensive understanding of the factors that affect the price of a house, and can be used to make more accurate predictions of house prices based on the characteristics of the house.
-# CONCLUSIONS
 # Recommendations 
 
 Bathrooms: The number of bathrooms has a positive effect on the price of the house, meaning that houses with more bathrooms tend to be priced higher. The agency may want to consider this factor when pricing and marketing homes with more bathrooms. 
@@ -120,3 +119,5 @@ Generalizability: The dataset used for this analysis was limited to a specific g
 Causality: While the model can identify relationships between variables, it cannot prove causality. Therefore, it's important to be cautious about making causal claims based solely on the results of this model. 
 
 In order to improve the value of a house, we would need to understand the market (i.e. what buyers are looking for). Therefore, by not having this information, we are unable to advise our clients on the best renovations to make. It is possible to build the most expensive house in the world, but if it is not what buyers are looking for, then it will not be sold. There is no value in that. 
+# Conclusion
+In conclusion, this project was able to successfully build a regression model to predict house prices based on various features such as the number of bedrooms, bathrooms, square footage, age, and location. The model was able to accurately predict house prices with reasonable accuracy and provide insight into the factors that impact the price of a house. This information can be valuable to real estate agents and homebuyers who are interested in getting an accurate estimate of the price of a house based on its features.
