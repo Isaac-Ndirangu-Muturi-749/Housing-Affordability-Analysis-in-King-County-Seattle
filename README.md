@@ -1,7 +1,6 @@
 # KING COUNTY HOUSING AFFORDABILITY 
-<p align="center">
-  <img src=".image.jpeg" alt="movie" width="200%">
-</p> 
+![Alt text](./image.jpeg) 
+
 
 # OVERVIEW 
 A real estate agency from King County, Seattle hired us for a project to analyse how different factors affect prices of homes.The aim of this analysis is to build a multiple linear regression model that predicts the prices of houses in King County, Seattle.  
@@ -41,7 +40,7 @@ The regression algorithm is a suitable choice for this project, as it is a super
 
 Our initial approach was to create a baseline model that will serve as a reference point for evaluating the effectiveness of subsequent models. Following that, we  created a multiple linear regression model to predict the target variable, which is the price. To identify the predictor variable that has the strongest correlation with the price, we examined the correlation coefficients of all the variables. 
 
-![Alt text](./regression line.png)  
+![Alt text](./regression_line.png) 
 
 We plotted the regression line on top of the scatter plot showing our baseline predictor to see how well the model fits the data as shown above. 
 
