@@ -48,7 +48,7 @@ for our multiple linear regression model we used all the ColumnS above after Che
 
 ![Alt text](./partregression.png) 
 
-The plotting shows partial regression plots for eavh feature in our  model. 
+The plotting shows partial regression plots for each feature in our  model. 
 
 # REGRESSION RESULTS 
 
